@@ -7,7 +7,7 @@ from datetime import datetime
 
 @task
 def hello_world():
-    print("Hello World - testing Alessandro2")
+    print("Hello World - testing Alessandro22")
 
 @dag(
     dag_id='hello_world',
